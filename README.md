@@ -2,6 +2,12 @@
 
 A modern, interactive educational web application designed for a Data Structures Continuous Comprehensive Evaluation (CCE) activity.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Adityam7711/data-structure-visualizer)
+
+## Live Preview & Deployment
+- **GitHub Repository**: [https://github.com/Adityam7711/data-structure-visualizer](https://github.com/Adityam7711/data-structure-visualizer)
+- **Deploy to Render (1-Click)**: [Deploy with Render](https://render.com/deploy?repo=https://github.com/Adityam7711/data-structure-visualizer)
+
 ## Features
 
 - **Queue Simulator (FIFO)**:
